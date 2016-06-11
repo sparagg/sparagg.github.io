@@ -1,0 +1,73 @@
+#page1 {
+	background-color: red;
+	background-image: url("images/flashicon.png");
+    background-repeat: repeat;
+}
+#page2 {
+	background-color: yellow;
+	background-image: url("images/flashicon.png");
+}
+#page3 {
+	background-image: url("images/flashicon.png")
+}
+
+
+
+
+#wrapper {
+	position: relative;
+}
+aside {
+	border: solid black;
+	background-color: yellow;
+	margin: auto;
+	padding: 1px;
+	max-width: 400px;
+	height: auto;
+	vertical-align: text-top;
+	display: inline-block;
+}
+.intro {
+	border: solid ;
+	background-color: yellow;
+	margin: auto;
+	padding: 5px;
+	max-width: 556px;
+	vertical-align: text-top;
+	display: inline-block;
+	
+}
+
+.sidebar1{
+	width: 90%;
+	padding: 10px;
+}
+
+footer {
+	margin: 5px;
+    max-width: 900px;
+    border: solid ;
+    padding: 5px;
+    overflow: auto;
+    background-color: yellow;
+    text-align: center;
+}
+
+.nav1 {
+	margin: auto;
+	border: solid;
+	padding: 5px;
+	overflow: auto;
+	background-color: yellow;
+	position: absolute;
+	max-width: 556px;
+	top: 200px;
+
+}
+
+
+
+
+
+
+
