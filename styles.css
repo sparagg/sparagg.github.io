@@ -13,6 +13,7 @@
 
 body {
 	max-width: 960px;
+	font-family: helvetica;
 }
 
 
@@ -157,7 +158,7 @@ a:hover {
 	background-color: black;
 }
 
-@media screen and (max-width: 959px) {
+@media screen and (max-width: 500px) {
  body {
     width: 100%;
     padding: 10px;
